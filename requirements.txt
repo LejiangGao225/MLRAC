@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+pytorch-tabnet
+torch
